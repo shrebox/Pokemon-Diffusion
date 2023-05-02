@@ -11,7 +11,7 @@ We use the dataset from [pokemon-ga by Zhenye Na](https://github.com/Zhenye-Na/p
 
 ### Formalities 📝 
 
-* The goal is to implement an end-to-end diffusion model on the CelebFace dataset.
+* The goal is to implement an end-to-end diffusion model on the Pokemon dataset.
 * You work alone or in groups of two.
 * Plagiarism will get you expelled from the seminar and potentially exmatriculated. However, you can discuss solutions with your fellow students and take inspiration from open-source implementations (see references). 
 * You can also copy&pase small code snippets if they are clearly indicated.
