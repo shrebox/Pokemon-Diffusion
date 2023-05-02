@@ -1,11 +1,10 @@
 # Pokemon Diffusion
 
+Checkout the code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/162p-naj-J6S-KDNzbez_0-h02gwOi3oP?usp=sharing)
+
 Repository for the practical projecto the [*Deep Generative Diffusion Models*](https://mosi.uni-saarland.de/lectures/22_2_deep_diffusion/) Seminar at Saarland University.
 
 We use the dataset from [pokemon-ga by Zhenye Na](https://github.com/Zhenye-Na/pokemon-gan).
-
-See `Practical_Project.ipynb` further information. 
-
 
 
 ## Rules ⚖️ 
