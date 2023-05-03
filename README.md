@@ -2,16 +2,16 @@
 
 Generated Pokemons: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/162p-naj-J6S-KDNzbez_0-h02gwOi3oP?usp=sharing)
 
-Repository for the practical projecto the [*Deep Generative Diffusion Models*](https://mosi.uni-saarland.de/lectures/22_2_deep_diffusion/) Seminar at Saarland University.
+Repository for the practical project to the [*Deep Generative Diffusion Models*](https://mosi.uni-saarland.de/lectures/22_2_deep_diffusion/) Seminar at Saarland University.
 
-We use the dataset from [pokemon-ga by Zhenye Na](https://github.com/Zhenye-Na/pokemon-gan).
+We use the dataset from [pokemon-gan by Zhenye Na](https://github.com/Zhenye-Na/pokemon-gan).
 
 
 ## Rules ⚖️ 
 
 ### Formalities 📝 
 
-* The goal is to implement an end-to-end diffusion model on the Pokemon dataset.
+* The goal is to implement an end-to-end diffusion model on the pokemon-gan dataset.
 * You work alone or in groups of two.
 * Plagiarism will get you expelled from the seminar and potentially exmatriculated. However, you can discuss solutions with your fellow students and take inspiration from open-source implementations (see references). 
 * You can also copy&pase small code snippets if they are clearly indicated.
